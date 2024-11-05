@@ -5,6 +5,8 @@
  */
 
 // @lc code=start
+
+//how to check substring , internally contains method use indexOf() method
 class Solution {
     public boolean rotateString(String s, String goal) {
         int slen = s.length();
